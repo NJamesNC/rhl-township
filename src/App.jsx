@@ -337,10 +337,10 @@ export default function RHLTownship(){
           </div>
         </div>
         <div style={{textAlign:"center"}}>
-          <div style={{fontSize:7,color:"rgba(255,255,255,0.2)",letterSpacing:"0.25em"}}>
+          <div style={{fontSize:7,color:"#FFD700",letterSpacing:"0.25em"}}>
             COLOSSIANS 3:23
           </div>
-          <div style={{fontSize:9,color:"rgba(255,255,255,0.35)",letterSpacing:"0.12em",marginTop:2}}>
+          <div style={{fontSize:9,color:"#FFD700",letterSpacing:"0.12em",marginTop:2}}>
             WHATEVER YOU DO — WORK AT IT WITH ALL YOUR HEART
           </div>
         </div>
